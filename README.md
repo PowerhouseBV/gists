@@ -1,2 +1,2 @@
 # gists
-Public Gists
+Public 'gists' by Powerhouse. 
